@@ -1,7 +1,7 @@
 {
 	"name": "nowl-client",
 	"version": "0.1.0",
-	"author": "SAP AG",
+	"author": "clncln1",
 	"description": "The Monitor client",
 	"contributors":[],
 	"main":"./lib/index.js",
