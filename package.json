@@ -1,0 +1,16 @@
+{
+	"name": "nowl-client",
+	"version": "0.1.0",
+	"author": "SAP AG",
+	"description": "The Monitor client",
+	"contributors":[],
+	"main":"./lib/index.js",
+	"bin":{
+		"nowl-client":"./lib/index.js"
+	},
+	"dependencies":{
+		"async": "0.2.x",
+		"promise": "3.2.x",
+		"socket.io-client": "0.9.x"
+	}
+}

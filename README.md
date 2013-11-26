@@ -1,0 +1,3 @@
+# nowl-client: Node-based server monitoring client
+
+### More details to come soon...
